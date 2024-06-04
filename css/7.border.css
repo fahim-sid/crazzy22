@@ -1,0 +1,17 @@
+p {
+  border-width: 5px;
+  border-color: green;
+  border-style: solid;
+}
+
+div {
+  border-width: 1px;
+  border-color: black;
+  border-style: dotted;
+}
+
+section {
+  border-width: 30px;
+  border-color: rebeccapurple;
+  border-style: ridge;
+}
