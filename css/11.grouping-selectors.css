@@ -1,0 +1,48 @@
+/* header {
+  text-shadow: 2px 3px 1px pink;
+  font-size: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+  text-decoration-style: wavy;
+}
+div {
+  text-shadow: 2px 3px 1px pink;
+  font-size: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+  text-decoration-style: wavy;
+}
+
+section {
+  text-shadow: 2px 3px 1px pink;
+  font-size: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+  text-decoration-style: wavy;
+}
+span {
+  text-shadow: 2px 3px 1px pink;
+  font-size: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+  text-decoration-style: wavy;
+}
+h1 {
+  text-shadow: 2px 3px 1px pink;
+  font-size: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+  text-decoration-style: wavy;
+} */
+
+header,
+div,
+section,
+span,
+h1 {
+  text-shadow: 2px 3px 1px pink;
+  font-size: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+  text-decoration-style: wavy;
+}

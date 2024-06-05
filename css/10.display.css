@@ -1,5 +1,46 @@
-body * {
-  border-width: 1px;
+p {
+  background-color: yellow;
+
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+div {
+  background-color: pink;
+
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+section {
+  background-color: rgb(161, 18, 42);
+
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+span {
+  background-color: rgb(200, 106, 122);
+
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+label {
+  background-color: rgb(101, 122, 228);
+
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+input {
+  background-color: rgb(106, 238, 168);
+
+  border-width: 2px;
   border-color: black;
   border-style: solid;
 }
