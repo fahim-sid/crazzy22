@@ -1,0 +1,41 @@
+/* way 1 */
+/* span {
+  border: 1px solid red;
+}
+div {
+  border: 1px solid red;
+}
+section {
+  border: 1px solid red;
+}
+h1 {
+  border: 1px solid red;
+}
+h2 {
+  border: 1px solid red;
+}
+label {
+  border: 1px solid red;
+}
+input {
+  border: 1px solid red;
+}
+button {
+  border: 1px solid red;
+} */
+
+/* way 2 */
+/* span,
+div,
+section,
+h1,
+h2,
+label,
+input,
+button {
+  border: 1px solid red;
+} */
+
+* {
+  border: 1px solid red;
+}
