@@ -1,0 +1,33 @@
+camel case
+pascal case
+snake case
+
+java------->
+int name="sadia";
+int fathersname = "batman" //ok
+int mothersname = "catwomen" //ok
+
+
+int fathersdateofbirth = "1800 sal"
+
+#####snake case:
+int fathers_date_of_birth
+int fathers_name = "batman"
+int mothers_name = "catwomen"
+
+
+
+#######camelCase:
+
+int fathersName = "batman" 
+int mothersName = "catwomen" 
+int fathersDateOfBirth = "1800 sal"
+
+
+#Pascal case:
+int name="sadia";
+int FathersName = "batman" 
+int MothersName = "catwomen" 
+
+
+int FathersDateOfBirth = "1800 sal"
