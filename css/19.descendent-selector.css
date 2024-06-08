@@ -1,0 +1,13 @@
+/* span{} */
+/* section div article p span{} */
+/* section span{} */
+/* div span{} */
+
+/* ok */
+/* section span {
+  color: red;
+} */
+/* ok */
+.sec span {
+  color: red;
+}

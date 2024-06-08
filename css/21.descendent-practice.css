@@ -1,0 +1,6 @@
+section > span {
+  color: red;
+}
+p span {
+  color: green;
+}
