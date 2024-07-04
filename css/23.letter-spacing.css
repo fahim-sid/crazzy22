@@ -1,0 +1,19 @@
+h2 {
+  word-spacing: 100px;
+  letter-spacing: 50px;
+  text-align: center;
+  text-shadow: 5px 5px 5px black;
+}
+p {
+  line-height: 100px;
+}
+div {
+  background-color: aqua;
+  text-align: center;
+}
+button {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}

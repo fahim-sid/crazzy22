@@ -1,0 +1,17 @@
+p {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+span {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+button {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
