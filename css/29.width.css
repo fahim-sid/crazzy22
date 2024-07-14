@@ -1,0 +1,11 @@
+p,
+div {
+  border: 5px solid red;
+  padding: 40px;
+}
+p {
+  width: 300px;
+}
+div {
+  width: 100px;
+}

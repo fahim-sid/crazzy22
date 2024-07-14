@@ -1,0 +1,16 @@
+body * {
+  border: 3px solid red;
+}
+div {
+  width: 90px;
+  height: 90px;
+  padding: 50px;
+  margin: 30px;
+}
+
+span {
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  margin: 30px;
+}
